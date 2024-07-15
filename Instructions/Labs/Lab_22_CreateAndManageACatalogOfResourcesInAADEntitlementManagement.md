@@ -17,7 +17,7 @@ A catalog is a container of resources and access packages. You create a catalog 
 
 #### Task 1 - Create a catalog
 
-1. Sign in to [https://portal.azure.com](https://portal.azure.com) using a Global Administrator account.
+1. Sign in to [https://entra.microsoft.com ](https://entra.microsoft.com ) using a Global Administrator account.
 
     **Important** - To use and configure Azure AD terms of use, you must have:
     - Azure AD Premium P1, P2, EMS E3, or EMS E5 subscription.
