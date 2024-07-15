@@ -33,7 +33,7 @@ A catalog is a container of resources and access packages. You create a catalog 
 
 4. On the top menu, select **+New Catalog**.
 
-    ![Screen image displaying the Identity governance catalog page with the New catalog menu highlighted ](./media/lp4-mod1-identity-governance-new-catalog.png)
+    ![Screen image displaying the Identity governance catalog page with the New catalog menu highlighted ](./media/lp4-mod1-identity-governance-new-catalog1.png)
 
 5. In the New catalog pane, in the **Name** box, enter **Marketing**.
 
@@ -45,7 +45,7 @@ A catalog is a container of resources and access packages. You create a catalog 
 
 9. You may choose to enable the catalog for immediate use or disable if you intend to stage it or keep it unavailable until you intend to use it. For this exercise, the catalog does not need to be enabled.
 
-    ![Screen image displaying the New catalog pan with the Name, Description, Enabled, and Create options highlighted](./media/lp4-mod1-new-catalog-marketing.png)
+    ![Screen image displaying the New catalog pan with the Name, Description, Enabled, and Create options highlighted](./media/lp4-mod1-new-catalog-marketing1.png)
 
 10. Select Create.
 
@@ -74,7 +74,7 @@ To include resources in an access package, the resources must exist in a catalog
 
 7. For this exercise, it is okay to choose any resource you may have available.
 
-    ![Add resources to a catalog](./media/catalog-add-resources.png)
+    ![Add resources to a catalog](./media/catalog-add-resources1.png)
 
 8. When finished, Select **Add**. These resources can now be included in access packages within the catalog.
 
@@ -86,7 +86,7 @@ The user that created a catalog becomes the first catalog owner. To delegate man
 
 2. In the Marketing catalog page, in the left navigation menu, select **Roles and administrators**.
 
-    ![Screen image displaying the Roles and administrators page for the Marketing catalog](./media/lp4-mod1-catalog-roles-and-admins.png)
+    ![Screen image displaying the Roles and administrators page for the Marketing catalog](./media/lp4-mod1-catalog-roles-and-admins1.png)
 
 3. On the top menu, review the available roles and then select **+ Add catalog owner**.
 
@@ -104,7 +104,7 @@ You can edit the name and description for a catalog. Users see this information 
 
 3. Review the setting and, under **Properties** > **Enabled**, select **Yes**.
 
-    ![Screen image displaying the properties being enabled.](./media/lp4-mod1-edit-marketing-catalog.png)
+    ![Screen image displaying the properties being enabled.](./media/lp4-mod1-edit-marketing-catalog1.png)
 
 4. Select **Save**.
 
